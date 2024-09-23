@@ -2,4 +2,5 @@
 
 this is my first git project
 burahan byh
-second commit
+second commitc
+exercises 3
